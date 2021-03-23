@@ -1,0 +1,33 @@
+오후 파이썬 수업
+서성원 01093899814
+ssw3@nate.com
+
+아나콘다 VS Code
+확장프로그램 상위3개설치
+파이썬 실행
+Hello world 디버깅
+
+a, b 변수, 변수저장
+print 출력함수
+# 주석처리 - 한 번에 하는 법?
+//몫
+%나머지
+
+문자열(String)
+"Life is too short, you need Python"
+따옴표, 백슬래시
+
+이해안간건 점프 투 파이썬 정독
+파이썬은 인덱스번호가 0부터
+파이썬은 인터프리터 언어라서 위에서 아래로 진행됨
+오류가 났을 때 가장 위에 오류부터 해결해나가야함
+
+위키독스 ( https://wikidocs.net )
+점프 투 파이썬 ( https://wikidocs.net/book/1 )
+초보자를 위한 파이썬 300제 ( https://wikidocs.net/book/922 )
+Matplotlib Tutorial - 파이썬으로 데이터 시각화하기 ( https://wikidocs.net/book/5011 )
+모두의 데이터 분석 with 파이썬 ( https://www.gilbut.co.kr/book/view?bookcode=BN002416 )
+파이썬 라이브러리를 활용한 데이터 분석 ( https://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794 )
+금융 데이터 분석을 위한 파이썬 Pandas ( https://wikidocs.net/book/3488 )
+파이썬 웹 데이터 수집 - 크롤링 ( https://wikidocs.net/book/5050 )
+기타 강의 자료 ( https://cafe.naver.com/japeujagi )
